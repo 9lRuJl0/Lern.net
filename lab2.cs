@@ -16,7 +16,7 @@ namespace LernArray
         static void Main(string[] args)
         {
 
-
+            Console.Write("Hello!");
 
 
         }
